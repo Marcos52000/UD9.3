@@ -61,9 +61,5 @@ public class Libro {
 		} else {
 			return "tienen las mismas paginas";
 		}
-	}
-	
-	
-	
-	
+	}	
 }

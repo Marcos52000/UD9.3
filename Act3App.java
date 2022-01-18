@@ -8,7 +8,4 @@ public class Act3App {
 		System.out.println(libro2.toString());
 		System.out.println(libro1.tieneMasPaginas(libro1, libro2));
 	}
-	
-	
-
 }
